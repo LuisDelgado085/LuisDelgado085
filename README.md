@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisDelgado085
 - 👀 I’m an up-and-coming programmer making strides in Backend & some Frontend projects 
-- 🌱 I’m currently learning algorithim refinement and databases
+- 🌱 I’m currently learning Neural Networks and Big Data handling
 - 💞️ I’m looking to collaborate on anything really i'm open to projects of any kind
 - 📫 You can reach me through my email: luisdelgadoo085@gmail.com
 
